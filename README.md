@@ -33,11 +33,7 @@ dockitems_to_persist:
   - name: Notes
     path: "/System/Applications/Notes.app"
     pos: 6
-````
-
-## Dependencies
-
-None.
+```` 
 
 ## Example usage
 
