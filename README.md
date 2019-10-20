@@ -1,7 +1,6 @@
 # Ansible macOS Dock Setup
 
 Manages the applications displayed on the macOS dock, such as which applications to display and in what order.
-Tested on both macOS Catalina and macOS Mojave. Note the applications locations have changed in macOS Cataline
 
 ## Information
 
